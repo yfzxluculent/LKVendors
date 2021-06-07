@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LKVendors'
-  s.version          = '0.1.3'
-  s.summary          = 'LKVendors 组建'
+  s.version          = '0.1.4'
+  s.summary          = 'LKVendors'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
