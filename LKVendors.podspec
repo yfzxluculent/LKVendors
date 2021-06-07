@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LKVendors'
-  s.version          = '0.1.6'
+  s.version          = '0.1.8'
   s.summary          = 'LKVendors'
 
 # This description is used to generate tags and improve search results.
