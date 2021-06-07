@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LKVendors'
-  s.version          = '0.1.5'
+  s.version          = '0.1.6'
   s.summary          = 'LKVendors'
 
 # This description is used to generate tags and improve search results.
@@ -35,7 +35,7 @@ TODO: Add long description of the pod here.
 #   s.resource_bundles = {
 #     'LKVendors' => ['LKVendors/Assets/*.png']
 #   }
-   s.resources    = "LKVendors/Classes/XHPopMenu/Resources/*.png"
+#  s.resources    = "LKVendors/Classes/XHPopMenu/Resources/*.png"
 
 
 
