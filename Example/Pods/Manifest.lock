@@ -1,5 +1,5 @@
 PODS:
-  - LKVendors (0.1.4)
+  - LKVendors (0.1.5)
 
 DEPENDENCIES:
   - LKVendors (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  LKVendors: fc0956cffb4f2b0d06e7a2927ac0100aeb9c990c
+  LKVendors: c23f884516fe535dfb2bfce92c8f74b6973f124c
 
 PODFILE CHECKSUM: 7d5fdc6be989bd20bf663a2f452f26da80273df0
 

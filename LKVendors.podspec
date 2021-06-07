@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LKVendors'
-  s.version          = '0.1.4'
+  s.version          = '0.1.5'
   s.summary          = 'LKVendors'
 
 # This description is used to generate tags and improve search results.
@@ -36,6 +36,9 @@ TODO: Add long description of the pod here.
 #     'LKVendors' => ['LKVendors/Assets/*.png']
 #   }
    s.resources    = "LKVendors/Classes/XHPopMenu/Resources/*.png"
+
+
+
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
