@@ -27,10 +27,10 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		642D8A57AF8FF614F67AB14D /* Pods-LKVendors_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LKVendors_Tests.release.xcconfig"; path = "Target Support Files/Pods-LKVendors_Tests/Pods-LKVendors_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		B7C47943D8333C68C4A44661 /* Pods-LKVendors_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LKVendors_Tests.debug.xcconfig"; path = "Target Support Files/Pods-LKVendors_Tests/Pods-LKVendors_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		B9D080A5ADED331AF59CDB5F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		BB74108A94ACBEB933A21891 /* LKVendors.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = LKVendors.podspec; path = ../LKVendors.podspec; sourceTree = "<group>"; };
+		B9D080A5ADED331AF59CDB5F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		BB74108A94ACBEB933A21891 /* LKVendors.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LKVendors.podspec; path = ../LKVendors.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		D3E190EF9D510DE00108ECDC /* Pods_LKVendors_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LKVendors_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F57274D8C8FC8F057F90310D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		F57274D8C8FC8F057F90310D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,7 +54,6 @@
 				B7C47943D8333C68C4A44661 /* Pods-LKVendors_Tests.debug.xcconfig */,
 				642D8A57AF8FF614F67AB14D /* Pods-LKVendors_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -160,6 +159,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

@@ -32,9 +32,10 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'LKVendors/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'LKVendors' => ['LKVendors/Assets/*.png']
-  # }
+#   s.resource_bundles = {
+#     'LKVendors' => ['LKVendors/Assets/*.png']
+#   }
+   s.resources    = "LKVendors/Classes/XHPopMenu/Resources/*.png"
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'

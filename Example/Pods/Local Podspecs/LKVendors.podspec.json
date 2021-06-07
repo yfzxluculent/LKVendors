@@ -1,7 +1,7 @@
 {
   "name": "LKVendors",
-  "version": "0.1.3",
-  "summary": "LKVendors 组建",
+  "version": "0.1.4",
+  "summary": "LKVendors",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/yfzxluculent/LKVendors",
   "license": {
@@ -13,10 +13,11 @@
   },
   "source": {
     "git": "https://github.com/yfzxluculent/LKVendors.git",
-    "tag": "0.1.3"
+    "tag": "0.1.4"
   },
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "LKVendors/Classes/**/*"
+  "source_files": "LKVendors/Classes/**/*",
+  "resources": "LKVendors/Classes/pinyin/*.txt"
 }
